@@ -1,10 +1,12 @@
-def selectionSort(arr):
-    for i in range(len(arr)):
-    
-      minimum = i
-      for j in range(i+1, len(arr)):
-        if arr[minimum] > arr[j]:
-          minimum = j
-      arr[minimum], arr[i] = arr[i], arr[minimum]
+def insertionsort(arr):
+  i = 1
+  while(i < len(arr)):
+    k = arr[i]
 
-    return(arr)
+    j = i - 1
+    while j >= 0 and k < arr[j]:
+      arr[j + 1] = arr[j]
+      j -= 1
+    arr[j + 1] = k
+    i += 1
+  return arr
