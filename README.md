@@ -6,7 +6,7 @@ develop algorithm concept for algorithm exam
       step 2 search the minimum element in the array
       step 3 swap with value in min variable
       step 4 increment min variable to point to next level  
-      [selection sort code]( https://repl.it/@biwanari/ExcitableStarkDeskscan#selectionsort.py )
+[selection_sort_code](https://repl.it/@biwanari/ExcitableStarkDeskscan#selectionsort.py)
       
   ## Insertion Sort
       step 1 initialize two index i and j and set i = 1 and j = i-1 < | j | i | | | | | | | | | >
@@ -14,7 +14,7 @@ develop algorithm concept for algorithm exam
       step 3 iterate over arr and where k is minus than arr[j] swap them
       step 4 again iterate until all previous number are minus expect arr[k]
       step 5 go ahead and repeat step 2 ~ 4 until array is sorted
-      [insertion sort code] ( https://repl.it/@biwanari/ExcitableStarkDeskscan#insertionsort.py )
+[insertion_sort_code] ( https://repl.it/@biwanari/ExcitableStarkDeskscan#insertionsort.py )
       
   ## Merge Sort
      Mergesort is based on divide and conquer concept, it divides array in two halves,
@@ -63,4 +63,9 @@ develop algorithm concept for algorithm exam
      repeat on each parts until you ends up the array parts
      at the and we obtain a sorted array
      REMEMBER THIS---> MERGE SORT USE A SUPPORT ARRAY TO ORDER THE ELEMENTS, so is not a "in loco" sorted algorithm
-     [mergesort code] ( https://github.com/biwanari/sortingAlgorithm/blob/master/MergeSort.py )
+[merge_sort_code]( https://github.com/biwanari/sortingAlgorithm/blob/master/MergeSort.py )
+     
+     
+     
+Reference:
+[geekforgeek](https://www.geeksforgeeks.org/)
