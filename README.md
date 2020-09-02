@@ -1,5 +1,7 @@
 # sortingAlgorithm
-develop algorithm concept for algorithm exam
+
+![algo_img](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)  
+**develop algorithm concept for algorithm exam**
 ## Sorting Algorithm
  ##  Selection Sort
       step 1 Set minimum value to array[0] aka index = position  | > 0 < | 1 | 2| ....| >
