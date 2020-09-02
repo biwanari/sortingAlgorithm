@@ -14,7 +14,7 @@ develop algorithm concept for algorithm exam
       step 3 iterate over arr and where k is minus than arr[j] swap them
       step 4 again iterate until all previous number are minus expect arr[k]
       step 5 go ahead and repeat step 2 ~ 4 until array is sorted
-[insertion_sort_code] ( https://repl.it/@biwanari/ExcitableStarkDeskscan#insertionsort.py )
+[insertion_sort_code](https://repl.it/@biwanari/ExcitableStarkDeskscan#insertionsort.py)
       
   ## Merge Sort
      Mergesort is based on divide and conquer concept, it divides array in two halves,
@@ -67,5 +67,6 @@ develop algorithm concept for algorithm exam
      
      
      
-Reference:
-[geekforgeek](https://www.geeksforgeeks.org/)
+Reference:  
+[geekforgeek](https://www.geeksforgeeks.org/)  
+(my medium profile)[https://medium.com/@andrewraieta]
