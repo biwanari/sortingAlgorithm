@@ -67,6 +67,6 @@ develop algorithm concept for algorithm exam
      
      
      
-Reference:  
-[geekforgeek](https://www.geeksforgeeks.org/)  
-(my medium profile)[https://medium.com/@andrewraieta]
+reference:  
+[cool guys of geek for geek](https://www.geeksforgeeks.org/)  
+[my medium profile](https://medium.com/@andrewraieta)
