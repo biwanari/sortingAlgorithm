@@ -35,7 +35,7 @@
      and we obtain
      
                         ____ ____  ____ ___ ___ ____ ____ 
-     nwo the situation | 27 | 38 | 3 | 43 | 82 | 9 | 10 |  where every couple of  i-element are a sub-array
+     now the situation | 27 | 38 | 3 | 43 | 82 | 9 | 10 |  where every couple of  i-element are a sub-array
                         ‾‾‾‾ ‾‾‾‾ ‾‾‾‾ ‾‾‾ ‾‾‾ ‾‾‾‾ ‾‾‾‾‾
                         
      we can take every single couple and find the minus and then sorted, in other words:
